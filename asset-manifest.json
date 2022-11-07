@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.58d3eced.css",
-    "main.js": "/portfolio/static/js/main.08f73c41.js",
-    "static/media/travel.png": "/portfolio/static/media/travel.6fc113acf74369bff2d7.png",
+    "main.css": "/portfolio/static/css/main.6c5cf4d0.css",
+    "main.js": "/portfolio/static/js/main.b6e11deb.js",
+    "static/media/travel.png": "/portfolio/static/media/travel.48f2851094a7e10dcc71.png",
     "static/media/first-page.png": "/portfolio/static/media/first-page.6728c6b80f42cacb8291.png",
+    "static/media/brand-page.png": "/portfolio/static/media/brand-page.520088224fb5d4ffee81.png",
+    "static/media/dashboard.png": "/portfolio/static/media/dashboard.ef1a92367f221d8e6f9a.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -14,11 +16,11 @@
     "static/media/notes-app.png": "/portfolio/static/media/notes-app.12f1e0ee652a05706ced.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.58d3eced.css.map": "/portfolio/static/css/main.58d3eced.css.map",
-    "main.08f73c41.js.map": "/portfolio/static/js/main.08f73c41.js.map"
+    "main.6c5cf4d0.css.map": "/portfolio/static/css/main.6c5cf4d0.css.map",
+    "main.b6e11deb.js.map": "/portfolio/static/js/main.b6e11deb.js.map"
   },
   "entrypoints": [
-    "static/css/main.58d3eced.css",
-    "static/js/main.08f73c41.js"
+    "static/css/main.6c5cf4d0.css",
+    "static/js/main.b6e11deb.js"
   ]
 }
