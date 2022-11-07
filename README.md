@@ -1,4 +1,4 @@
-## Check this out on prykhodchenkomykyta.github.io/portfolio
+### Check this out on [Github.io](https://prykhodchenkomykyta.github.io/portfolio)
 
 # Getting Started with Create React App
 
